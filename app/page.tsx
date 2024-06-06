@@ -4,11 +4,7 @@ import Navbar from "./Components/Navbar";
 export default function Home() {
   return (
     <>
-
-      <Navbar />
-
-     
-
+      <p> Tehreem change the navbar</p>
     </>
   );
 }
