@@ -4,7 +4,7 @@ import Navbar from "./Components/Navbar";
 export default function Home() {
   return (
     <>
-      <p> Tehreem change the navbar</p>
+      <p> I am changing it kindly have a look into it</p>
     </>
   );
 }
