@@ -1,10 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return (
-    <>
-      abc
-      hjdjks
-    </>
-  );
+  return <>ya b changed data chnge for conflicting</>;
 }
