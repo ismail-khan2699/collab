@@ -5,7 +5,11 @@ import HeroSection from "./Components/HeroSection";
 export default function Home() {
   return (
     <>
-      <HeroSection />
+
+      <p> Tehreem change the navbar</p>
+
+
+
     </>
   );
 }
