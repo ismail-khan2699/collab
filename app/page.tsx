@@ -6,10 +6,11 @@ import Component from "./Components/component";
 export default function Home() {
   return (
     <>
-
+      
       <Navbar />
       <HeroSection />
       <Component />
+
 
     </>
   );
