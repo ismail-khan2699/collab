@@ -6,9 +6,8 @@ export default function Home() {
   return (
     <>
 
-      <p> Tehreem change the navbar</p>
-
-
+     <Navbar/>
+     <HeroSection/>
 
     </>
   );
