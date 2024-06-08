@@ -3,7 +3,7 @@ import Navbar from "./Components/Navbar";
 import HeroSection from "./Components/HeroSection";
 import Component from "./Components/component";
 import Section from "./Components/Section";
-
+import Newsection from "./Components/Newsection";
 export default function Home() {
   return (
     <>
@@ -13,6 +13,7 @@ export default function Home() {
       <Component />
       <Section />
 
+<Newsection/>
 
     </>
   );
